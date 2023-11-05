@@ -1,2 +1,5 @@
 # Project-Euler
-Problems from projecteuler.net
+My introduction to coding. 
+V1 is Fizzbuzz in its simplest form.
+V2 defines Fizzbuzz as a function.
+"Factors sum" is a function that returns the sum of all factors of 3 and 5 (i.e all the "Fizz" or "Buzz" numbers)
